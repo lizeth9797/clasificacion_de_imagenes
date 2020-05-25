@@ -1,2 +1,4 @@
-# clasificacion_de_imagenes
-Clasificación de imágenes- Lenguaje de Señas Mexicano
+# Clasificación de imágenes para Lenguaje de señas mexicano
+
+### Receta:
+
