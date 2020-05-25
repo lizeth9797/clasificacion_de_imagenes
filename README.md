@@ -14,11 +14,6 @@ IMAGE_SIZE=224
 ARCHITECTURE="mobilenet_0.50_${IMAGE_SIZE}"
 ```
 
-Ejecute tensorboard para monitorear el progreso del entrenamiento
-```
-tensorboard --logdir tf_files/training_summaries &
-```
-
 Entrene el modelo:
 ```
 python -m scripts.retrain \
