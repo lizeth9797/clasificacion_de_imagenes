@@ -40,3 +40,5 @@ python -m scripts.label_image \
     --image=tf_files/imagenes/LetraA/Class 1-!-19.jpg
    
  ```
+ 
+ #### NOTA: se puede probar este modelo con una nueva fotografía que no este incluida en el dataset, sólo se debe colocar la ruta en el último comando mencionado
