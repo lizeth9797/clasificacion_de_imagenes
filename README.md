@@ -37,7 +37,7 @@ python -m scripts.retrain \
 ```
 python -m scripts.label_image \
     --graph=tf_files/retrained_graph.pb  \
-    --image=tf_files/imagenes/LetraA/Class 1-!-19.jpg
+    --image=tf_files/imagenes/LetraA/Class\ 1-\!-0.jpg
    
  ```
  
